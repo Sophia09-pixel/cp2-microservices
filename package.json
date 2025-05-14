@@ -7,7 +7,8 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:cp2": "node dist/cp2/server/server.mjs"
+    "serve:ssr:cp2": "node dist/cp2/server/server.mjs",
+    "server": "json-server --watch db.json"
   },
   "private": true,
   "dependencies": {
