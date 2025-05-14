@@ -1,28 +1,39 @@
 {
-  "clientes": [
+  "beneficios": [
     {
       "id": "ddsaf",
-      "nome": "Deborah Aarão"
+      "nome": "Deborah Aarão",
+      "imagem": "laalallala"
     },
     {
-      "id": "4",
-      "nome": "Sophia",
-      "telefone": "12345976"
+      "id": "ddsaf",
+      "nome": "Deborah Aarão",
+      "imagem": "laalallala"
     },
     {
-      "id": "SDPdOA",
-      "nome": "Macuco",
-      "telefone": "12345"
+      "id": "ddsaf",
+      "nome": "Deborah Aarão",
+      "imagem": "laalallala"
     },
     {
-      "id": "NkrD6g",
-      "nome": "Macuco",
-      "telefone": "123345"
+      "id": "ddsaf",
+      "nome": "Deborah Aarão",
+      "imagem": "laalallala"
     },
     {
-      "id": "a9IjII",
-      "nome": "Minguel",
-      "telefone": "54643"
+      "id": "ddsaf",
+      "nome": "Deborah Aarão",
+      "imagem": "laalallala"
+    },
+    {
+      "id": "6KSmWq",
+      "nome": "sdfsf",
+      "imagem": "sdfsdf"
+    },
+    {
+      "id": "OcISF1",
+      "nome": "12332",
+      "imagem": "21333"
     }
   ],
   "categorias": [
